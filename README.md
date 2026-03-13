@@ -6,4 +6,4 @@ It works by having a straight wire that attaches to resistors that come off of i
   
 Link to try it out: https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORIRWISCk9ApgLRhgBQAbjaTiHTpqRfuBxMwApkSZImC6Ak4BnPgKlyJ4heBAAzAIYAbFc04B3dYOHXhCy-W2aQOBBu2ROAJ1fudfgLokKhQ4PCObkEhIFjBgjFeAMaBCaFRgqih1DDwyFCwcOTkqDik6KQE5W45hRBeUuix8cGhcUzoWYIgACbMRgCuxgAurMbMPXq6uVxW7Znp-p2hXlYZy3Zdq5vZYvjSjqJB-keCslCOuKHIyAIS17cXVqjITTcCVyiPDXggL037P6vL5BXr9QxDUbjSb1MIzTgpT6Az7vGgFPLoorFUrlSqoUhEIhNXKQeqXHChQH-QT+Ly+JExJG08CMbYZFyfFzbTnaBkrSIxVGnVHbYWPU4bbZZJhoajzWVPEAE6gK6UoVA5TiNJWElCQajK9XUJp9QYjMYTKZw2BcFJq5D6v6oGUatEkyD5d3FUg4ioIaoaugksnPZ16g26h2a3xqqlhqNhYJwS7xBXC12isRprPfRyx-xqrl5sMcikBLxAA
 
-https://cdn.hackclub.com/019cd923-a1d0-7244-a3d1-938e4d273d1c/Recording%202026-03-10%20150112.mp4
+![img](https://user-cdn.hackclub-assets.com/019ce4a6-9cf4-7ae6-8f19-c55c336b93b7/test.gif)
